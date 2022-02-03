@@ -1,0 +1,4 @@
+lads.exe /S
+/*检测软件目录下的隐藏流文件*/
+streams.exe -d <File>
+清除ADS 使用streams.exe

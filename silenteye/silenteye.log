@@ -1,0 +1,2 @@
+INFO[SECryptoAES128][20:37:04] Silent Eye Encryption AES128: aes128-cbc-pkcs7 supported by system [OK]
+INFO[SECryptoAES256][20:37:04] Silent Eye Encryption AES256: aes256-cbc-pkcs7 supported by system [OK]

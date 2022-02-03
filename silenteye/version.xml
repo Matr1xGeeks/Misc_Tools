@@ -1,0 +1,23 @@
+<!DOCTYPE SilentEye>
+<version>
+ <name>0.4.1</name>
+ <date>20110206</date>
+ <link-win>https://sourceforge.net/projects/silenteye/files/Application/0.4/silenteye-0.4.1-win32.exe/download</link-win>
+ <link-lin>https://sourceforge.net/projects/silenteye/files/Application/0.4/silenteye-0.4.1-i386.bin/download</link-lin>
+ <link-mac></link-mac>
+ <releasenote>
+Changes since 0.4.0:
+FEACTURES:
+* Encode message into JPEG file (SEFormatJPEG plug-in)
+
+ENHANCEMENTS:
+* Enable manual edit for encoding destination
+* Generate AES128 and AES256 key from MD5
+
+BUG FIXES:
+* "Open file" function doesn't handle ".tif"
+
+INTERNAL:
+* Update application and plu-ins for static build => needed by standalone installer
+ </releasenote>
+</version>

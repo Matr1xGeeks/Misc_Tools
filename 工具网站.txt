@@ -1,0 +1,10 @@
+二维码扫描分析
+https://demo.dynamsoft.com/barcode-reader/
+brainfuck解密（支持hex输出）
+https://gkucmierz.github.io/brainfuck-interpreter/
+在线outguess
+https://cyber.meme.tips/joutguess/
+npiet解密
+https://www.bertnase.de/npiet/npiet-execute.php
+汉信码解密
+http://www.efittech.com/hxdec.html
